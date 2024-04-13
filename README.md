@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caleb
 - 👀 I’m interested in learning to code more and always improving myself
-- 🌱 I’m currently working as a security guard and pursuing a future as law enforcement while trying to figure out some other interests in programming and game dev.
+- 🌱 I’m currently working as a security guard and trying to figure out some other interests in programming.
 - 💞️ I’m looking to collaborate on anything I can get my hands on
 - 📫 How to reach me ------ Discord: Caleb_Kirk - Email: CalebKirkendall@pm.me
 
